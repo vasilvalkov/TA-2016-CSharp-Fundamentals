@@ -19,8 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Point In Circle", "07_Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Prime Check", "08_Prime Check\08_Prime Check.csproj", "{4FCF8334-CB58-4362-8C16-0D9D4B09C010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Трапезоидс", "09_Трапезоидс\09_Трапезоидс.csproj", "{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Point Circle Rectangle", "10_Point Circle Rectangle\10_Point Circle Rectangle.csproj", "{EAABFE2D-E492-4FAE-B4D7-27F085376E7B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Third Bit", "11_Third Bit\11_Third Bit.csproj", "{F53A18BC-2162-49CF-A179-402FFEBFCF7C}"
@@ -32,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Bit Exchange", "14_Bit Exchange\14_Bit Exchange.csproj", "{BBC674DE-429F-4A1D-BE3A-688989EF7516}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Bit Swap", "15_Bit Swap\15_Bit Swap.csproj", "{9D2CA8C7-E10A-45EC-8410-393FB01D2D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Trapezoids", "09_Trapezoids\09_Trapezoids.csproj", "{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,10 +71,6 @@ Global
 		{4FCF8334-CB58-4362-8C16-0D9D4B09C010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FCF8334-CB58-4362-8C16-0D9D4B09C010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FCF8334-CB58-4362-8C16-0D9D4B09C010}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EAABFE2D-E492-4FAE-B4D7-27F085376E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EAABFE2D-E492-4FAE-B4D7-27F085376E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAABFE2D-E492-4FAE-B4D7-27F085376E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -99,6 +95,10 @@ Global
 		{9D2CA8C7-E10A-45EC-8410-393FB01D2D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D2CA8C7-E10A-45EC-8410-393FB01D2D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D2CA8C7-E10A-45EC-8410-393FB01D2D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4C1F90-38A8-400A-827A-AA4F1C62B3C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
