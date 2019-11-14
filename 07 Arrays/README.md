@@ -3,14 +3,14 @@ Homework: Arrays
 
 ### Problem List
 
-1. [Allocate array](./01_Allocate Array)
-1. [Compare arrays](./02_Compare Arrays)
-1. [Compare char arrays](./03_Compare Char Arrays)
-1. [Maximal sequence](./04_Maximal Sequence)
-1. [Maximal increasing sequence](./05_Maximal Increasing Sequence)
-1. [Maximal K sum](./06_Maximal K Sum)
-1. [Selection sort](./07_Selection Sort)
-1. [Maximal sum](./08_Maximal Sum)
+1. [Allocate array](./01_Allocate%20Array)
+1. [Compare arrays](./02_Compare%20Arrays)
+1. [Compare char arrays](./03_Compare%20Char%20Arrays)
+1. [Maximal sequence](./04_Maximal%20Sequence)
+1. [Maximal increasing sequence](./05_Maximal%20Increasing%20Sequence)
+1. [Maximal K sum](./06_Maximal%20K%20Sum)
+1. [Selection sort](./07_Selection%20Sort)
+1. [Maximal sum](./08_Maximal%20Sum)
 1. [Frequent number](./09_FrequentNumber)
 1. [Find sum in array](./10_FindSumInArray)
 1. [Binary search](./11_BinarySearch)
